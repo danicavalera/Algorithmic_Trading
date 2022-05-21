@@ -61,7 +61,14 @@ In this section, you’ll use the original parameters that the starter code prov
 3. Backtest the new model to evaluate its performance. Save a PNG image of the cumulative product of the actual returns vs. the strategy returns for this updated trading algorithm, and write your conclusions in your `README.md` file. Answer the following questions: Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
 
 #### Evaluation Report
-## Training dataset adjusted to 5 months - 04-02-2015 through 09-02-2015 
+# Training dataset adjusted to 5 months - 04-02-2015 through 09-02-2015 
 ![dataframe](Images/5monthsdf.png)
-![Report](Images/5monthsdf.png)
-![Plot](Images/5monthsdf.png)
+![Report](Images/5monthsreport.png)
+![Plot](Images/5monthsplot.png)
+
+
+# Changed SMA short and long windows:
+![window](Images/SMAwindow.png)
+![dataframe](Images/SMAdf.png)
+![Report](Images/SMAreport.png)
+![Plot](Images/SMAplot.png)
