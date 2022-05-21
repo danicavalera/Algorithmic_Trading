@@ -69,6 +69,10 @@ In this section, you’ll use the original parameters that the starter code prov
 
 # Changed SMA short and long windows:
 ![window](Images/SMAwindow.png)
-![dataframe](Images/SMAdf.png)
 ![Report](Images/SMAreport.png)
 ![Plot](Images/SMAplot.png)
+
+# SMA short = 5, long = 150, training = 8 months
+![dataframe](Images/dataframe.png)
+![Report](Images/report.png)
+![Plot](Images/plot.png)
