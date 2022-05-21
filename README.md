@@ -62,6 +62,6 @@ In this section, you’ll use the original parameters that the starter code prov
 
 #### Evaluation Report
 ## Training dataset adjusted to 5 months - 04-02-2015 through 09-02-2015 
-(Images/5monthsdf.png)
-(Images/5monthsdf.png)
-(Images/5monthsdf.png)
+!(Images/5monthsdf.png)
+!(Images/5monthsdf.png)
+!(Images/5monthsdf.png)
