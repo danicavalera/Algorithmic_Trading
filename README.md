@@ -79,3 +79,12 @@ In this section, you’ll use the original parameters that the starter code prov
 
 
 #### Conclusion
+## Baseline Performance
+![Report](Images/Baseline.png)
+![Plot](Images/ActualVsStrategy.png)
+
+## Backtest
+![Report](Images/Backtestreport.png)
+![Plot](Images/Backtest.png)
+
+Based on the reports, the baseline performance did better with a higher accuracy score of .55. 
