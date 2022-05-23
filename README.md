@@ -62,12 +62,14 @@ In this section, you’ll use the original parameters that the starter code prov
 
 #### Evaluation Report
 # Training dataset adjusted to 5 months - 04-02-2015 through 09-02-2015 
+Based on the report and visualization, adjusting the training dataset to 5 months decreased the strategy return.
 ![dataframe](Images/5monthsdf.png)
 ![Report](Images/5monthsreport.png)
 ![Plot](Images/5monthsplot.png)
 
 
 # Changed SMA short and long windows:
+Based on the report and visualization, adjusting the SMA windows increased the actual returns.
 ![window](Images/SMAwindow.png)
 ![Report](Images/SMAreport.png)
 ![Plot](Images/SMAplot.png)
@@ -79,12 +81,13 @@ In this section, you’ll use the original parameters that the starter code prov
 
 
 #### Conclusion
+Based on the reports, the baseline performance did better with a higher accuracy score of .55. 
+
 ## Baseline Performance
 ![Report](Images/Baseline.png)
 ![Plot](Images/ActualVsStrategy.png)
 
-## Backtest
+## New Model
 ![Report](Images/Backtestreport.png)
 ![Plot](Images/Backtest.png)
 
-Based on the reports, the baseline performance did better with a higher accuracy score of .55. 
