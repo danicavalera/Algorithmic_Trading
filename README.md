@@ -76,3 +76,6 @@ In this section, you’ll use the original parameters that the starter code prov
 ![dataframe](Images/dataframe.png)
 ![Report](Images/report.png)
 ![Plot](Images/plot.png)
+
+
+#### Conclusion
