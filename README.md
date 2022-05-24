@@ -81,7 +81,8 @@ Based on the report and visualization, adjusting the SMA windows increased the a
 
 
 #### Conclusion
-Based on the reports, the baseline performance did better with a higher accuracy score of .55. 
+Based on the reports, the baseline performance did better with a higher accuracy score of .55. From reviewing the acftual returns and Stratgey 
+returns, they follow almost extra through the first half of 2017 then the spread grew larger than the baseline model.
 
 ## Baseline Performance
 ![Report](Images/Baseline.png)
